@@ -38,22 +38,6 @@ The project demonstrates hands-on use of:
 
 ---
 
-├── data/ # Raw CSV dataset
-│ ├── orders.csv
-│ ├── order_details.csv
-│ ├── pizzas.csv
-│ └── pizza_types.csv
-│
-├── docs/ # Documentation & Diagrams
-│ ├── ER Diagram.png # ERD diagram of database schema
-│ └── questions.md
-│
-├── scripts/ # SQL Queries
-│ ├── create_tables.sql
-│ └── analysis_queries.sql
-
----
-
 ## 📊 Entity-Relationship Diagram (ERD)
 The database contains **multiple related tables** to represent orders, pizzas, categories, and sizes.  
 📌 ERD is available here:  
