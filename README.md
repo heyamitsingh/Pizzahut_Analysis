@@ -34,7 +34,8 @@ The project demonstrates hands-on use of:
 - `ORDER BY`, `LIMIT`  
 - `JOINS`  
 - `WINDOW FUNCTIONS`  
-- `SUBQUERIES`  
+- `SUBQUERIES`
+- `CTE`
 
 ---
 
