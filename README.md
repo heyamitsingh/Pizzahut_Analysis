@@ -64,6 +64,183 @@ The project addresses the following business questions using SQL:
 
 ---
 
+## 📊 Findings
+
+Below are the key insights from the analysis.  
+Each question contains the SQL query and its output (screenshots).  
+
+---
+
+<details>
+  <summary><strong>Q1. Retrieve the total number of orders placed</strong></summary>
+
+  **Query:**
+  ![Q1 Query](findings/Q1_total_orders_query.png)
+
+  **Output:**
+  ![Q1 Output](findings/Q1_total_orders_output.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Q2. Calculate the total revenue generated from pizza sales</strong></summary>
+
+  **Query:**
+  ![Q2 Query](findings/Q2_total_revenue_query.png)
+
+  **Output:**
+  ![Q2 Output](findings/Q2_total_revenue_output.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Q3. Identify the highest-priced pizza</strong></summary>
+
+  **Query:**
+  ![Q3 Query](findings/Q3_highest_price_query.png)
+
+  **Output:**
+  ![Q3 Output](findings/Q3_highest_price_output.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Q4. Identify the most common pizza size ordered</strong></summary>
+
+  **Query:**
+  ![Q4 Query](findings/Q4_common_size_query.png)
+
+  **Output:**
+  ![Q4 Output](findings/Q4_common_size_output.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Q5. List the top 5 most ordered pizza types along with their quantities</strong></summary>
+
+  **Query:**
+  ![Q5 Query](findings/Q5_top5_pizza_query.png)
+
+  **Output:**
+  ![Q5 Output](findings/Q5_top5_pizza_output.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Q6. Total quantity of each pizza category ordered (using joins)</strong></summary>
+
+  **Query:**
+  ![Q6 Query](findings/Q6_category_quantity_query.png)
+
+  **Output:**
+  ![Q6 Output](findings/Q6_category_quantity_output.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Q7. Distribution of orders by hour of the day</strong></summary>
+
+  **Query:**
+  ![Q7 Query](findings/Q7_orders_by_hour_query.png)
+
+  **Output:**
+  ![Q7 Output](findings/Q7_orders_by_hour_output.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Q8. Category-wise distribution of pizzas (using joins)</strong></summary>
+
+  **Query:**
+  ![Q8 Query](findings/Q8_category_wise_query.png)
+
+  **Output:**
+  ![Q8 Output](findings/Q8_category_wise_output.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Q9. Group orders by date and calculate average pizzas ordered per day</strong></summary>
+
+  **Query:**
+  ![Q9 Query](findings/Q9_avg_per_day_query.png)
+
+  **Output:**
+  ![Q9 Output](findings/Q9_avg_per_day_output.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Q10. Top 3 most ordered pizza types based on revenue</strong></summary>
+
+  **Query:**
+  ![Q10 Query](findings/Q10_top3_revenue_query.png)
+
+  **Output:**
+  ![Q10 Output](findings/Q10_top3_revenue_output.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Q11. Percentage contribution of each pizza type to total revenue</strong></summary>
+
+  **Query:**
+  ![Q11 Query](findings/Q11_percentage_contribution_query.png)
+
+  **Output:**
+  ![Q11 Output](findings/Q11_percentage_contribution_output.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Q12. Cumulative revenue generated over time (Window Function)</strong></summary>
+
+  **Query:**
+  ![Q12 Query](findings/Q12_cumulative_revenue_query.png)
+
+  **Output:**
+  ![Q12 Output](findings/Q12_cumulative_revenue_output.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Q13. Top 3 most ordered pizza types based on revenue for each category</strong></summary>
+
+  **Query:**
+  ![Q13 Query](findings/Q13_top3_category_revenue_query.png)
+
+  **Output:**
+  ![Q13 Output](findings/Q13_top3_category_revenue_output.png)
+
+</details>
+
+---
+
+
 🚀 Future Work
 
 Add Power BI dashboards for advanced interactive visualizations
